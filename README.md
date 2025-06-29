@@ -1,4 +1,4 @@
-> Call me Marxist, but TUI > GUI
+**Call me Marxist, but TUI > GUI**
 
 
 <!--
