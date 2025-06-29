@@ -1,4 +1,5 @@
-## Hi there 👋
+> Call me Marxist, but TUI > GUI
+
 
 <!--
 **PunCensored/PunCensored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
